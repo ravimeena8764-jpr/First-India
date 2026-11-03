@@ -1,0 +1,8 @@
+{
+  "name": "First India New",
+  "description": "Comprehensive Hindi news mobile application featuring live updates, city news, video and shorts, offline reading, personalized notifications, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
